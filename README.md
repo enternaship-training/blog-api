@@ -7,6 +7,13 @@
                    CLOUD_NAME = xxxxx
                    API_KEY = xxxxx
                    API_SECRET = xxxxxx
+                   
+                   
+ # Team members
+          Mohamed Abdirahman Ahmed
+          Abdirashid mohamed kheyre
+          Mustaf Abubakar Abdullahi
+          Abdirisak Abdullahi Hassan
           
           
           
